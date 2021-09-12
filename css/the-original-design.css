@@ -1,0 +1,44 @@
+.rectangle-the-original-design {
+    background-color:  var(--beige);
+    margin: 0;
+    padding: 0;
+    margin-top: -100px;
+    display: flex;
+
+}
+
+.img-bracelet-the-original-design {
+    width: 50%;
+    margin: 0 0 0 20%;
+}
+
+.the-original-design {
+    font-family: 'Playfair Display', serif;
+    font-size: 80px;
+
+    margin: 100px 0px 0px 0px;
+    padding: 200px 0px 0px 300px; 
+}
+
+.the-original-design-text {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+
+    padding: 0px 0px 0px 300px; 
+   
+}
+
+.the-original-design-explore {
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.explore-the-original-design {
+    padding: 0px 0px 0px 300px; 
+
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    
+    cursor: pointer;
+}
+

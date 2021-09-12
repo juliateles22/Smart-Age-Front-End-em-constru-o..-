@@ -1,0 +1,24 @@
+@media only screen and (max-width: 600px) {
+    .find-a-store {
+        display: none;
+    }
+
+
+    .icons-nav-bar .user {
+        display: none;
+    }
+
+    .icons-nav-bar .heart {
+        display: none;
+    }
+
+  
+    .separator {
+        display: none;
+    }
+
+    .title-separator-discovery-more {
+        display: none;
+    }
+
+}

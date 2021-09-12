@@ -1,0 +1,23 @@
+.nav-item {
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+/* Find a Store */
+
+.find-a-store {
+    border-radius: 50px;
+    box-sizing: border-box;
+    width: 170px;
+    padding: 10px 0px 9px 5px;
+}
+
+.bi .bi-geo-alt {
+    color:  var(--orange);
+}
+
+.icons-nav-bar {
+    margin: 7px;
+
+}

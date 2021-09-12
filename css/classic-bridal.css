@@ -1,0 +1,40 @@
+.jumbotron-classic-bridal {
+    background-color:  var(--wine);
+    padding: 0px 0px 0px 0px ;
+}
+
+.img-bracelet-classic-bridal {
+    height: 100%;
+    width: 50%;
+
+}
+
+.classic-bridal {
+    color: var(--orange);
+
+    font-family: 'Playfair Display', serif;
+    font-size: 80px;
+    width: 50%;
+    
+    padding: 200px 0px 0px 0px;
+}
+
+.classic-bridal-text {
+    color: var(--white);
+
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    width: 80%;
+
+    
+    padding: 0px 0px 0px 248px;
+}
+
+.shop-now {
+    color: var(--white);
+
+    padding: 0px 0px 0px 248px;
+    cursor: pointer;
+}
+
+

@@ -1,0 +1,48 @@
+.category-carousel  {
+    width: 95%;  
+}
+
+.category-carousel-ring  {
+    height: 900px;
+    margin: 5px 0px 0px 90px;
+    padding:  0px 50px 0px 1px;
+}
+
+.category-carousel-necklace {
+    height: 900px;
+    margin: 5px 0px 0px 90px;
+    padding:  0px 50px 0px 1px;
+}
+
+.text-category {
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height */
+    
+    text-align: right;
+    letter-spacing: 0.25em;
+}
+
+.text-ring {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 96px;
+    line-height: 115px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.3em;
+}
+
+.carousel-category-previous {
+
+}
+
+.carousel-category-next {
+    
+}
